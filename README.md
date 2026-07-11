@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Profile photo -->
+<img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Allan Nishad"/>
+
+<br/>
+
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Allan+Nishad+%F0%9F%91%8B;B.Tech+Computer+Science+Student;Java+%7C+AI+%7C+Cloud+Enthusiast;Building+Impactful+Software+%F0%9F%9A%80" alt="Typing SVG" />
 
